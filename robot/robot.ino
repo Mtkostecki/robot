@@ -1,8 +1,10 @@
-#define L_PWM 5
+#define L_PWM 5 // kolejne silniki
+
 #define L_DIR 4
 #define R_PWM 6
 #define R_DIR 9
 #define PWM_MAX 165
+
 
 
 
